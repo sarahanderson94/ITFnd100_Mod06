@@ -1,0 +1,2 @@
+xmas shopping,high
+buy groceries,low
